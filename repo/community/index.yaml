@@ -18,4 +18,22 @@ entries:
     urls:
     - https://raw.githubusercontent.com/IBM/charts/master/repo/community/sample-chart-0.1.2.tgz
     version: 0.1.2
+  portworx:
+  - created: 2018-09-05T18:02:25.384846118Z
+    description: A Helm chart for installing Portworx on Kubernetes.
+    digest: c83ceadddc78a6f0faf88924f2f44d00a3662903ea1e0544b1621cc6f64543fe
+    icon: https://raw.githubusercontent.com/portworx/helm/master/doc/media/k8s-porx.png
+    keywords:
+    - Tech
+    - amd64
+    - ppc64le
+    - reference
+    - portworx
+    - nginx
+    - ICP
+    name: portworx
+    tillerVersion: '>=2.6.0'
+    urls:
+    - https://raw.githubusercontent.com/harsh-px/charts/master/repo/community/portworx-1.0.0.tgz
+    version: 1.0.0
 generated: 2018-09-05T18:02:25.383227504Z
